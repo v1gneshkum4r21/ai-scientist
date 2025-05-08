@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "emotional_detection_cbt",
+    "Title": "Emotion-Aware CBT Guidance for AI Companions",
+    "Experiment": "Design a module that detects emotional states from user input and responds with Cognitive Behavioral Therapy (CBT)-inspired techniques. Evaluate its ability to reduce distress and maintain engagement in early interaction stages.",
+    "Interestingness": 8,
+    "Feasibility": 6,
+    "Novelty": 7
+  },
+  {
+    "Name": "academic_mentor_lcm",
+    "Title": "Personalized Academic Mentorship via Large Concept Models",
+    "Experiment": "Implement an academic support module that recommends study strategies, resources, and schedules based on user academic profile, integrating retrieval-augmented generation and LLM fine-tuning.",
+    "Interestingness": 7,
+    "Feasibility": 7,
+    "Novelty": 6
+  },
+  {
+    "Name": "career_alignment_agent",
+    "Title": "Career Path Optimization through Multi-Stage Dialogue and AI Reasoning",
+    "Experiment": "Build a career-planning agent that assesses user skills, goals, and personality traits, then evolves a dynamic plan using LCM-based fusion of market data, user intent, and developmental milestones.",
+    "Interestingness": 9,
+    "Feasibility": 5,
+    "Novelty": 8
+  },
+  {
+    "Name": "modular_companion_fusion",
+    "Title": "Modular AI Companion Design Using Evolving Concept Fusion",
+    "Experiment": "Explore the fusion of specialized modules (mental health, academic, and career) using Sakana’s evolution-based concept recombination. Assess the adaptability and contextual relevance across life phases.",
+    "Interestingness": 9,
+    "Feasibility": 6,
+    "Novelty": 9
+  }
+]

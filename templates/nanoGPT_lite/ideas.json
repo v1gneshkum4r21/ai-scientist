@@ -1,0 +1,35 @@
+[
+    {
+      "Name": "emotion_trajectory_cbta",
+      "Title": "Emotion Trajectory Analysis for Adaptive CBT Agents",
+      "Experiment": "Extend emotion detection by modeling user emotional trajectories over time. Adapt CBT strategies dynamically using historical patterns and session-level feedback to improve mental well-being outcomes.",
+      "Interestingness": 9,
+      "Feasibility": 6,
+      "Novelty": 8
+    },
+    {
+      "Name": "concept_driven_academic_agent",
+      "Title": "Concept-Driven Academic Agent Using Adaptive RAG and Curriculum Mapping",
+      "Experiment": "Design a personalized academic agent that uses curriculum-aware document retrieval and concept tracing to align learning resources with student progress. Evaluate retention, engagement, and concept mastery.",
+      "Interestingness": 8,
+      "Feasibility": 7,
+      "Novelty": 7
+    },
+    {
+      "Name": "career_trajectory_predictor",
+      "Title": "Future-Back Reasoning for Career Planning via AI Concept Simulation",
+      "Experiment": "Use multi-modal user profiling and market trend data to simulate potential future career paths. The model iteratively refines goals and suggests actionable steps using concept evolution techniques.",
+      "Interestingness": 9,
+      "Feasibility": 5,
+      "Novelty": 9
+    },
+    {
+      "Name": "phased_companion_controller",
+      "Title": "Phase-Adaptive Orchestration for Modular AI Companions",
+      "Experiment": "Implement a control layer that dynamically orchestrates specialized LCMs based on user life stage and context. Evaluate adaptability and user experience over time using simulated life transitions.",
+      "Interestingness": 9,
+      "Feasibility": 6,
+      "Novelty": 9
+    }
+  ]
+  
